@@ -1,0 +1,39 @@
+Note that the same origin policy doesn't necessarily prevent the request per se – it just prevents the response from being accessible
+Note诺特; 笔记; 音符
+origin出身; 起源，根源; 原点，起点; 起端
+necessarily必要地; 必需地; 必定地; 必然地
+prevent预防; 阻止; 阻碍; 引领; 阻挠，阻止
+request要求; 需要; 所请求的事物; 申请书; 请求; 请求得到; 索取; 邀请[常接不定式或从句]
+per se本身，本质上
+prevents阻止; 阻碍; 预防( prevent的第三人称单数 ); 引领
+response反应; 回答，答复; 回应经文，应唱圣歌
+being存在; 人; 生物; 要素，本质
+accessible易接近的; 可理解的; 易相处的; 易感的
+
+concept phase初步设计阶段
+concept观念，概念; 观点; 思想，设想，想法; 总的印象
+phase阶段; 相，周相; 相位; 方面，侧面; 分阶段实行; 调整相位; 分阶段进行
+requirements需要; 所需的东西; 必要条件，必备的条件; 要求( requirement的名词复数 ); 必要条件; 需要的东西
+product development产品发展，产品开发，产品研制
+implementation贯彻; 成就; implement的变形; 安装启用
+activities活动( activity的名词复数 ); 活力; 活动力
+
+
+Initiation开始; 启蒙; 入会仪式
+Product Development保险产品开发; 产品发展，产品开发，产品研制
+Vulnerability脆弱性; 弱点，攻击; 易伤性; 致命性
+Techntechnique 技术; technological 技术的; technology 工艺; technics 工艺学
+Specify指定; 详述; 提出…的条件; 使具有特性; 明确提出，详细说明
+System Design系统设计
+Feature Integration特征集成
+Penetration渗透; 穿透; 突破; 洞察力
+Safety Assessment安全性鉴定书
+Safety Review安全审查
+
+
+
+shows给…看( show的第三人称单数 ); 表现出; 显露出; 上演
+domain范围，领域; 领土，疆土; 管辖范围; 域名
+verification核实; 证明; 证实; <哲>证明
+nothing没有东西; 没有事情; 无关紧要的东西; 毫无趣味的事; 无; 无关紧要的人[事]; 零; 毫不; 决不
+be done完毕
