@@ -1,0 +1,59 @@
+
+stored存储的; 存信息的
+vulnerability脆弱性; 弱点，攻击; 易伤性; 致命性
+patched补( patch的过去式和过去分词 ); 修理; 调停; 解决
+earlier早期的，初期的; 早期，初期
+this month本月
+
+flaw瑕疵，缺点; 一阵狂风; 短暂的风暴; 裂缝，裂纹; 使生裂缝，使有裂纹; 使无效; 使有缺陷; 生裂缝; 变的有缺陷
+allowed容许的; 允许( allow的过去式和过去分词 ); 承认; 酌增; 接受
+malicious恶意的，有敌意的; 蓄意的; 预谋的; 存心不良的
+JavaScriptJava描述语言
+embedded植入的，深入的，内含的; 把…嵌入，埋入( embed的过去式和过去分词 )
+specially特别地; 专门地; 特意地; 格外地
+formatted有格式的; 使格式化( format的过去式和过去分词 ); 规定…的格式; 安排…的格局; 设计…的版面
+message消息; 信息; 要旨; 教训; 给…发消息; 给…留言
+
+automatically自动地; 无意识地; 不自觉地; 机械地
+evaluated估价的，已评估的; 评价( evaluate的过去式和过去分词 ); 求…的值; 对…评价; 求…的数值
+message消息; 信息; 要旨; 教训; 给…发消息; 给…留言
+viewed看（view的过去式与过去分词形式）
+JavaScriptJava描述语言
+be used to习惯于，适用于
+compromise妥协; 损害; 妥协方案; 折中物; 折中解决; 妥协，退让; 违背; 连累; 使陷入危险
+settings环境; 镶嵌( setting的名词复数 ); 装置; 背景
+forward向前; 前进地; 至将来; 提前地; 向前方的; 迅速的; 进步的; 早熟的; 促进，助长; 转寄; 发送; 前锋
+consent同意; 准许，赞同; 一致; 允许; 赞成，赞同
+
+proof of concept概念验证
+victim牺牲者，受害者; 自找苦吃的人; 受骗者，上当者; 为祭祀杀死的动物
+inbox收信信箱
+infects影响; 传染( infect的第三人称单数 ); 污染
+Mail account邮箱帐号
+attaches贴上，系，附上( attach的第三人称单数 ); 参加; 把…固定; 把…归因于
+outgoing对人友好的，开朗的; 出发的，外出的; 即将离职的; 乐于助人的
+bug昆虫; 缺陷，瑕疵; 细菌，病菌; 窃听器; 在…装窃听器; 打扰，烦恼; 折磨，使痛苦; 暴突或变大; 变大; 凸出
+exploits剥削; 开采( exploit的第三人称单数 ); 利用; 运用
+in the wild在自然环境下，在野外，野生的
+
+bug昆虫; 缺陷，瑕疵; 细菌，病菌; 窃听器; 在…装窃听器; 打扰，烦恼; 折磨，使痛苦; 暴突或变大; 变大; 凸出
+affected受到影响的; 感动的; 假装的; 倾向于…的; 影响( affect的过去式和过去分词 ); 假装; 感动; 侵袭
+versions版本; 译本( version的名词复数 ); 描述; 变体
+Yahoo美国Yahoo公司，提供Internet上的目录信息检索服务; 雅虎; （英国作家Swift小说中<<格列佛游记>>中的）人行兽
+reportedly据报道，据传说
+globally全局地
+million百万; 百万的; 无数的
+accounts帐目; 账( account的名词复数 ); 报告; 描述
+as of截至
+February二月
+accepted公认的; 可以接受的; 接受(accept的过去式及过去分词)
+posting记录; 过帐，记账; 委派; 邮寄; 公布; 张贴(post的现在分词)
+as soon as一…就…; 一经
+s asales agent 销售代理人，销售代理商
+fetches接来( fetch的第三人称单数 ); 使发出; 吸引; 售得
+XMLExtensible Markup Language 可扩展标记语言
+annotation注释
+matching使…相配(match的ing形式); 相配的; 一致的; 相称的; 匹配
+whitelist将…列入优良者名单
+will not将不会
+
